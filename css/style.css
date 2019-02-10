@@ -103,7 +103,7 @@ body {
     height: 17px;
 }
 
-.owl-nav .owl-prev:after{
+.owl-nav .owl-next:after{
     content: '';
     display: block;
     background-image: url("../img/next.png");
